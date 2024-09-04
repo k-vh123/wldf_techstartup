@@ -1,6 +1,6 @@
 # Wildlife Conservation Tech Startup Database Project
 
-![tech startup illustration](https://plus.unsplash.com/premium_vector-1682306737276-670b799c9d1c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRlY2glMjBzdGFydHVwfGVufDB8fDB8fHww)
+![tech startup illustration](https://plus.unsplash.com/premium_vector-1682306737276-670b799c9d1c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHRlY2glMjBzdGFydHVwfGVufDB8fDB8fHww= "tech startup illustration")
 
 ## Table of Contents
 - [Introduction](#introduction)
